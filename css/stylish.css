@@ -1,0 +1,20 @@
+.a {
+  max-width: 100%;
+  background-position: center;
+  height: 225px;
+ } 
+
+.firstcol {
+	background-image: url("../image.jpeg");
+	background-position: center;
+	height: 600px;
+}
+.ae {
+	  text-align: center;
+	  font-style: italic;
+
+} 
+
+.mytext {
+	padding: 20px;
+}
